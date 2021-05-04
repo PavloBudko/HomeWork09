@@ -38,20 +38,6 @@ nav svg:hover{
     border-radius: 100%;
 }
 
-.bg-danger{
-    position: relative;
-    top: -10px;
-    left: -25px;
-    width: 18px;
-    height: 18px;
-    border-radius: 100%;
-    font-size: 12px;
-    font-weight: normal;
-    display: flex;
-    justify-content: center;
-    align-content: center;
-}
-
 .form-control{
     box-sizing: border-box;
     width: 216px;
